@@ -1,7 +1,9 @@
 # 陈恺睿 个人简历 Web前端开发
 
 姓名：陈恺睿
+
 学校：电子科技大学（2014/06本科毕业）
+
 邮箱：95kerry@gmail.com
 
 ## 非技术能力
@@ -48,4 +50,5 @@
 前端开发工程师实习职位。对HTML5，Web App很感兴趣。
 
 更多关于我：(http://about.me/kerrychen/)[http://about.me/kerrychen/]
+
 关于团队  ：(http://www.dreamfly.org/)[http://www.dreamfly.org/]
