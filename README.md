@@ -22,7 +22,7 @@
 
 ## 个人经历
 
-- [Web Rebuild 2012 成都站 分享嘉宾](http://www.webrebuild.org/index.html)，分享[《rebuild our sites by MVC》](https://github.com/kerryChen95/rebuild-our-sites-by-MVC)
+- [Web Rebuild 2012 成都站 分享嘉宾](http://webrebuild.org/chengdu/)，分享[《rebuild our sites by MVC》](https://github.com/kerryChen95/rebuild-our-sites-by-MVC)
 - 梦飞无线工作室前端负责人
 
 ## 项目经历
@@ -35,7 +35,7 @@
 
 挑战单页面横版布局应用；自己开发一套兼容IE6+的表单组件。
 
-- 2012/01 - 2012/03 给点点网开发[三套博客模板](http://www.diandian.com/themes/111/show)
+- 2012/01 - 2012/03 给点点网开发[三套博客模板](https://github.com/kerryChen95/resume/blob/master/works.md)
 
 深刻体会到做产品要对细节的把握很到位；积累了SASS, CSS3, HTML5语义标签与Local Storage的实践经验；掌握了动态页面模板的开发。
 
@@ -47,8 +47,10 @@
 
 ## 求职意向
 
-前端开发工程师实习职位。对HTML5，Web App很感兴趣。
+Web前端开发实习职位。对HTML5，Web App很感兴趣。
 
 更多关于我：(http://about.me/kerrychen/)[http://about.me/kerrychen/]
 
 关于团队  ：(http://www.dreamfly.org/)[http://www.dreamfly.org/]
+
+Github项目与博客：(https://github.com/kerryChen95)[https://github.com/kerryChen95]
