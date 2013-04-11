@@ -49,7 +49,7 @@
 
 ## 求职意向
 
-Web前端开发实习职位。对HTML5，Web App很感兴趣。
+Web前端开发实习职位。对HTML5，Web App，Node.js等新兴技术很感兴趣。
 
 ---
 
