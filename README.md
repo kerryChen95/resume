@@ -53,8 +53,8 @@ Web前端开发实习职位。对HTML5，Web App，Node.js等新兴技术很感�
 
 ---
 
-博客与作品展示：(https://github.com/kerryChen95/resume/blob/master/works.md)[https://github.com/kerryChen95/resume/blob/master/works.md]
+博客与作品展示：https://github.com/kerryChen95/resume/blob/master/works.md
 
-更多关于我：(http://about.me/kerrychen/)[http://about.me/kerrychen/]
+更多关于我：http://about.me/kerrychen/
 
-关于团队：(http://www.dreamfly.org/)[http://www.dreamfly.org/]
+关于团队：http://www.dreamfly.org/
