@@ -2,6 +2,8 @@
 
 姓名：陈恺睿
 
+电话：136 4806 4952
+
 邮箱：95kerry[at]gmail.com
 
 学业：电子科技大学 - 计算机科学与技术专业 - 2014/06本科毕业
@@ -15,8 +17,8 @@
 ## 技术能力
 
 - 深入理解ECMAScript的主要内部特性，懂得JavaScript性能优化与安全；
-- 掌握jQuery和require.js，熟悉Backbone.js和Underscore.js的源码分析与使用；
-- 熟练CSS2开发，兼容主流浏览器，CSS3有商业项目经验，熟悉SASS；
+- 熟悉Backbone.js和Underscore.js的源码分析与使用，掌握jQuery和require.js；
+- CSS3有商业项目经验，熟悉SASS，熟练CSS2开发，兼容主流浏览器；
 - 对HTML结构的模块化和语义化以及前端的三层分离有较好理解；
 - 了解浏览器内部机制，HTTP与TCP的工作方式，会用Node.js开发后台，会用反汇编分析C编译出来的机器码；
 
