@@ -42,7 +42,7 @@ https://github.com/kerryChen95/resume/blob/master/works.md
 ## 求职意向
 
 Web前端开发。 
-对HTML5，WebApp，Node.js等技术比较感兴趣。追求做技术专家。
+对HTML5，WebApp，Node.js等技术比较感兴趣。喜欢务实的Geek氛围，追求做技术专家。
 
 ---
 
