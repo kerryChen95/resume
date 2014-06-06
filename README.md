@@ -28,7 +28,7 @@
 
 ## 个人经历
 
-- 2013/07 - 2014/04 [腾讯AlloyTeam](http://www.alloyteam.com/)实习  
+- 2013/07 - 2014/04 [腾讯AlloyTeam](http://www.alloyteam.com/)实习（已签三方）  
 主要从事SmartQQ、QQ查找以及AlloyAnimation的开发。
 - 2012/11 [WebRebuild成都站分享嘉宾](http://webrebuild.org/chengdu/)  
 分享主题[《rebuild our sites by MVC》](https://github.com/kerryChen95/rebuild-our-sites-by-MVC)
