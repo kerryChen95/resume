@@ -18,11 +18,11 @@
 ## 技术能力
 
 - 对WebApp的开发与架构有独到的见解与实践经验；
-- 对ECMAScript的主要内部原理具有良好理解，懂得JavaScript性能优化与前端安全；
+- 对ECMAScript的内部原理具有良好理解，熟悉Web性能优化；
 - 能够对Backbone.js、Underscore.js、 [Sea.js进行源码分析](https://github.com/kerryChen95/blog/issues/6)，掌握使用jQuery和Require.js；
 - 熟悉SASS与CSS3的主要特性，熟练兼容主流浏览器的CSS2开发；
 - 能用Node.js进行服务端开发，对Node.JS服务的健壮性、稳定性有一定理解；
-- 了解浏览器、HTTP与TCP的工作机制；
+- 了解Web前端安全，理解浏览器、HTTP与TCP的工作机制；
 - 对HTML结构的模块化和语义化以及前端的三层分离有较好理解；
 - 熟练使用git
 
