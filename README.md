@@ -6,6 +6,8 @@
 
 邮箱：95kerry[at]gmail.com
 
+QQ：378194362
+
 学业：电子科技大学 - 计算机科学与技术专业 - 2014年7月本科毕业
 
 ## 非技术能力
@@ -20,11 +22,11 @@
 - 对WebApp的开发与架构有独到的见解与实践经验；
 - 对ECMAScript的内部原理具有良好理解，熟悉Web性能优化；
 - 能够对Backbone.js、Underscore.js、 [Sea.js进行源码分析](https://github.com/kerryChen95/blog/issues/6)，掌握使用jQuery和Require.js；
-- 熟悉SASS与CSS3的主要特性，熟练兼容主流浏览器的CSS2开发；
-- 能用Node.js进行服务端开发，对Node.JS服务的健壮性、稳定性有一定理解；
+- 熟悉SASS与CSS3的主要特性，熟练兼容主流浏览器的CSS开发；
+- 能用Node.js进行服务器端开发，对Node.js服务的健壮性、稳定性有一定理解；
 - 了解Web前端安全，理解浏览器、HTTP与TCP的工作机制；
 - 对HTML结构的模块化和语义化以及前端的三层分离有较好理解；
-- 熟练使用git
+- 熟练使用git，对git workflow有较好理解
 
 ## 个人经历
 
