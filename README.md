@@ -19,7 +19,7 @@
 
 * **对技术之深与工程之美有追求**
 
-能对经典库[Sea.js](https://github.com/kerryChen95/blog/issues/6)、[Backbone.js](https://github.com/jashkenas/backbone)、[Underscore.js](https://github.com/jashkenas/underscore)等进行源码分析，解决黑盒中的难题。  
+熟悉经典库[Sea.js](https://github.com/kerryChen95/blog/issues/6)、[Backbone.js](https://github.com/jashkenas/backbone)、[Underscore.js](https://github.com/jashkenas/underscore)的源码，能对常用的开源项目进行源码分析，解决黑盒中的难题。  
 对项目的模块解耦、组件划分有自己的理解，受不了不工整的代码，熟悉Git Workflow。
 
 * **“我可以学”**
