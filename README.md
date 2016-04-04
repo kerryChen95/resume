@@ -8,14 +8,14 @@
 
 ## 技能
 
-* **在Web前端领域有专业的[知识积累](http://book.douban.com/people/kerrychen95/collect)以及[实战经验](https://github.com/kerryChen95/resume/blob/master/works.md)**
+* **在Web前端领域有专业的[知识积累](http://book.douban.com/people/kerrychen95/collect)以及实战经验**
 
 包括架构思想、性能优化、前端工程、前端安全、浏览器和HTTP的工作机制等方面都有一定沉淀。
 
 * **专业做前端，打磨出精品**
 
 能熟练用主流的框架与工具[React.js](http://facebook.github.io/react/)、[Vue.js](http://vuejs.org/)、[Webpack](http://webpack.github.io/)等快速迭代产品。  
-注重产品细节，有权衡收益与成本的意识。
+注重产品细节，懂得权衡收益与成本。
 
 * **对技术之深与工程之美有追求**
 
@@ -35,14 +35,14 @@
 #### 2014.05 - 2014.06 [WebRTC实践](https://github.com/kerryChen95/webRTC-practice)
 
 本科毕业设计项目，用WebRTC技术实现浏览器与浏览器之间的双向通信，用WebSocket技术实现浏览器与服务器之间的双向通信，实现了视频录制、远程视频共享等功能。  
-在Web多媒体技术和Web实时技术方面积累了一定经验。
+在Web多媒体技术和Web实时通信技术方面积累了一定经验。
 
 #### 2013.07 - 2014.04 [腾讯AlloyTeam](http://www.alloyteam.com/about/)
 
 很有幸在腾讯最一流的前端团队实习将近一年，如果不是小米的召唤，我想我现在还在AlloyTeam工作。
 除了技术快速成长，还作为亲身经历者学习到大公司的很多方法论，比如小步快跑、灰度试错、用数据说话、上下级或同级之间的换位思考、不在其位但考虑其事、公司层面的危机意识，等等。
 
-* [Smart QQ](http://w.qq.com/)：新版Web QQ，遵循“移动优先”原则，适配PC端。工程师自己做产品经理。
+* [Smart QQ](http://w.qq.com/)：新版Web QQ，既做工程师又做产品经理。
 * QQ查找：探索如何将海量的流量进行商业化，从腾讯优秀的产品经理身上学习到不少产品方面的方法论。
 * [骨骼动画编辑器](https://github.com/kerryChen95/boneAnimationEditor)：挑战各种复杂交互的实现，在大量实践中对MVC思想、数据流的处理理解得更深入。
 
