@@ -7,9 +7,9 @@
 
 ## 技能
 
+* 【技术管理经验】目标管理，人才管理，大前端技术视野与前瞻性
 * 【技术经验】大前端技术架构（Native + WebView），性能优化（PWA、SSR、WebAssembly等），工程效率（Create-React-App脚手架、CI等）
 * 【技术经验】Node.js服务架构（GraphQL、Koa、Egg、Socket.io、MySQL、Redis）
-* 【管理经验】目标管理，人才管理
 * 【底层方法论】第一性原理，以终为始思维，闭环思维，成就感自驱力，费曼学习法
 
 ## 工作经历
