@@ -15,8 +15,8 @@
 
 ## 工作经历
 
-* 2019/03至今 小米人工智能部 高级软件工程师 前端Lead
-* 2018/02 - 2019/03 小米人工智能与云平台 高级软件工程师 前端Lead
+* 2019/03至今 小米人工智能部 前端组Lead 高级软件工程师 
+* 2018/02 - 2019/03 小米人工智能与云平台 小爱前端Lead 高级软件工程师
 * 2014/07 - 2018/02 小米云平台 软件工程师 前端工程师
 * 2013/07 - 2014/04 腾讯 AlloyTeam 前端实习
 * 2010/10 - 2013/06 梦飞无线工作室 前端负责人
@@ -28,5 +28,5 @@
 
 ## 行业技术大会演讲
 
-* [2016 HTML5峰会暨iWeb峰会北京站《从Mi Cloud Web架构变迁看大型SPA的复杂工程如何化简》](https://www.huodongxing.com/event/3344394413500)
-* [2012 WebRebuild成都站《Rebuild Our Sites by MVC》](http://webrebuild.org/2012/chengdu/)
+* [2016 HTML5峰会暨iWeb峰会北京站 技术演讲《从Mi Cloud Web架构变迁看大型SPA的复杂工程如何化简》](https://www.huodongxing.com/event/3344394413500)
+* [2012 WebRebuild成都站 技术演讲《Rebuild Our Sites by MVC》](http://webrebuild.org/2012/chengdu/)  受邀嘉宾中唯一一位学生
