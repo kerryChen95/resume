@@ -7,10 +7,10 @@
 
 ## 技能
 
-* 【技术领导力】目标管理，技术人才管理，2年半的10~20人技术团队领导经验
+* 【技术领导力】2018年至今10~20人技术团队领导经验，对目标规划、人才管理、成果产出有成熟理解与独到之处
 * 【技术规划】大前端技术视野，善于结合业务场景、业界前瞻性趋势，规划成熟技术方案、布局技术探索方向
-* 【技术经验】大前端技术架构（Native + WebView），性能优化（PWA、SSR、WebAssembly等），工程效率（Create-React-App脚手架、CI发布等）
-* 【技术经验】Node.js服务架构（GraphQL、Koa、Egg、Socket.io、MySQL、Redis）
+* 【技术经验】大前端技术架构与性能优化（PWA、WebView、SSR、WebAssembly等），工程效率（CRA脚手架、CI发布等）
+* 【技术经验】Node.js服务架构（Egg、GraphQL、Socket.io、MySQL、Redis）
 * 【底层方法论】崇尚第一性原理，以终为始思维，闭环思维，成就感自驱力，费曼学习法
 
 ## 工作经历
